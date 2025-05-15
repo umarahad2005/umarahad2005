@@ -1,6 +1,6 @@
 
 # **👋 Hi, I'm Umar Ahad Uddin Ahmed Usmani!**  
-💡 *Aspiring Data Scientist | AI & ML Enthusiast | AWS Cloud Club Core Team | Tech Innovator*  
+💡 *Aspiring Data Scientist | AI & ML Enthusiast | AWS Cloud Club Riphah Core Team | Tech Innovator*  
 
 🚀 **Passionate about turning raw data into powerful insights!**  
 I love exploring the intersection of **Data Science, AI, and Cloud Computing**, building intelligent solutions that drive innovation.  
