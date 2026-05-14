@@ -158,9 +158,26 @@ Concepts         →  DSA  •  OOP  •  REST APIs  •  MVC  •  Agile
 
 ## 📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=umarahad2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Umar's GitHub Stats" />
+<img src="https://github-stats-alpha.vercel.app/api?username=umarahad2005&cc=0d1117&tc=7f8c8d&ic=58a6ff&bc=0d1117" alt="Umar's GitHub Stats" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarahad2005&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+<img src="https://raw.githubusercontent.com/umarahad2005/umarahad2005/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" onerror="this.style.display='none'" />
+<br/>
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
 <br/>
 <img src="https://streak-stats.demolab.com?user=umarahad2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 <br/>
