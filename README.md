@@ -157,15 +157,14 @@ Concepts         →  DSA  •  OOP  •  REST APIs  •  MVC  •  Agile
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-
-![Umar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umarahad2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umarahad2005&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umarahad2005&theme=tokyonight&hide_border=true)
-
+<img src="https://github-readme-stats.vercel.app/api?username=umarahad2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Umar's GitHub Stats" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarahad2005&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+<br/>
+<img src="https://streak-stats.demolab.com?user=umarahad2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=umarahad2005&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
