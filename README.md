@@ -162,22 +162,6 @@ Concepts         →  DSA  •  OOP  •  REST APIs  •  MVC  •  Agile
 <br/>
 <img src="https://raw.githubusercontent.com/umarahad2005/umarahad2005/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" onerror="this.style.display='none'" />
 <br/>
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
 <br/>
 <img src="https://streak-stats.demolab.com?user=umarahad2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 <br/>
