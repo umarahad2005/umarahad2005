@@ -13,7 +13,7 @@
 
 **Full-Stack Developer · AI/ML Builder · Hackathon Winner · Emerging Leader**
 
-*CS Undergraduate @ Riphah International University · CGPA 3.75*
+*CS Undergraduate @ Riphah International University · CGPA 3.76*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-umarahadusmani.vercel.app-black?style=flat-square&logo=vercel)](https://umarahadusmani.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-umarahadusmani-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/umarahadusmani)
